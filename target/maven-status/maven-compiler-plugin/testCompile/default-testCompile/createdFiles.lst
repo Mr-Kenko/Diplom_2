@@ -1,0 +1,9 @@
+user\TestUnauthorizedUserDataUpdateParam.class
+constants\UserPropertiesState.class
+user\TestAuthorizedUserDataUpdateParam$1.class
+user\TestUserCreation.class
+user\TestUserLogin.class
+user\TestAuthorizedUserDataUpdateParam.class
+order\TestUserOrders.class
+order\TestOrderCreation.class
+user\TestUnauthorizedUserDataUpdateParam$1.class

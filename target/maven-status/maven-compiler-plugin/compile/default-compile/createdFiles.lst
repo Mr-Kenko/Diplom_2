@@ -1,0 +1,7 @@
+client\Client.class
+order\OrderClient.class
+user\UserClient.class
+order\OrderGenerator.class
+user\UserGenerator.class
+order\Order.class
+user\User.class
